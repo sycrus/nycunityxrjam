@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F548AA06-3D7E-FB8A-01AB-5F738A0D3651}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.xr.arcore@1.0.0-preview.24/Editor/ARCoreBuildProcessor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DanceController.cs" Line="23" Column="27" />
+      <File FileName="Assets/Models/rio/glow.shader" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.xr.arcore@1.0.0-preview.24/Editor/ARCoreBuildProcessor.cs" Line="75" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
